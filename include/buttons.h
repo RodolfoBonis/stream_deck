@@ -1,0 +1,2 @@
+void defineButtonsActions();
+void startButtonsPins();
